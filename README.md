@@ -15,7 +15,7 @@
 
 <p align="center">
   <a href="https://kwikchat.vercel.app">Live Demo</a> |
-  <a href="https://github.com/nilotpaldhar/kwikchat">Documentation</a> |
+  <a href="https://github.com/nilotpaldhar/test-app?tab=readme-ov-file">Documentation</a> |
   <a href="https://github.com/nilotpaldhar/kwikchat/issues">Request Feature</a>
 </p>
 
