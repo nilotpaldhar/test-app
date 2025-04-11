@@ -38,22 +38,6 @@
   <img src="https://ik.imagekit.io/haio54fgp/kwikchat-assets/app-overview.png?updatedAt=1744297521447" alt="App Screenshot" />
 </p>
 
-## 📽️ Demo Video
-
-Watch the quick demo of KwikChat in action:
-
-[![Watch the demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
-
-## 📑 Table of Contents
-
-- [Features](#features-)
-- [Tech Stack](#tech-stack-)
-- [Getting Started](#getting-started-)
-- [Deployment](#deployment-)
-- [Contribution](#contribution-)
-- [Support](#support-)
-- [License](#license-)
-
 ## Features ✨
 
 - 🔐 Secure authentication flow
