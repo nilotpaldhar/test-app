@@ -46,13 +46,13 @@ Watch the quick demo of KwikChat in action:
 
 ## 📑 Table of Contents
 
-- [Features](#features)
-- [Tech Stack](#tech-stack)
-- [Getting Started](#getting-started)
-- [Deployment](#deployment)
-- [Contribution](#contribution)
-- [Support](#support)
-- [License](#license)
+- [Features](#features-)
+- [Tech Stack](#tech-stack-)
+- [Getting Started](#getting-started-)
+- [Deployment](#deployment-)
+- [Contribution](#contribution-)
+- [Support](#support-)
+- [License](#license-)
 
 ## Features ✨
 
