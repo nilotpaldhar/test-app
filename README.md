@@ -2,7 +2,7 @@
 <br />
 
 <p align="center">
-  <img src="https://ik.imagekit.io/haio54fgp/kwikchat-assets/logo.png" alt="KwikChat" width="400"/>
+  <img src="https://raw.githubusercontent.com/nilotpaldhar/test-app/refs/heads/main/refs/heads/main/.github/assets/images/logo-banner.png" alt="KwikChat" width="400"/>
 </p>
 
 <h3 align="center">
@@ -15,7 +15,7 @@
 
 <p align="center">
   <a href="https://kwikchat.vercel.app">Live Demo</a> |
-  <a href="https://github.com/nilotpaldhar/test-app?tab=readme-ov-file">Documentation</a> |
+  <a href="https://github.com/nilotpaldhar/kwikchat?#readme-top">Documentation</a> |
   <a href="https://github.com/nilotpaldhar/kwikchat/issues">Request Feature</a>
 </p>
 
@@ -35,17 +35,47 @@
 </p>
 
 <p align="center">
-  <img src="https://ik.imagekit.io/haio54fgp/kwikchat-assets/app-overview.png?updatedAt=1744297521447" alt="App Screenshot" />
+  <img src="https://raw.githubusercontent.com/nilotpaldhar/test-app/refs/heads/main/refs/heads/main/.github/assets/images/app-overview.png" alt="App Screenshot" />
 </p>
 
 ## Features ✨
 
-- 🔐 Secure authentication flow
-- 🧠 Smart user presence detection
-- ⚡ Real-time message updates via Pusher
-- 💬 Beautiful, responsive UI with Tailwind & Shadcn
-- 📱 Mobile-first design
-- 🕒 Message timestamps and delivery status
+### 🔐 Authentication & Security
+
+- Secure, extensible authentication flow
+- Built-in **Two-Factor Authentication (2FA)**
+- Session management following security best practices
+- Ability to toggle 2FA from the user dashboard
+- Password change functionality
+
+### 👥 User System
+
+- **Friend request system** with request/accept/reject flow
+- **Block and unblock** functionality to manage interactions
+- **Comprehensive user dashboard** with:
+  - Profile information update
+  - Toggle 2FA
+  - Password management
+
+### ⚡ Real-Time Messaging
+
+- Live message updates via **Pusher**
+- Optimistic UI updates using **TanStack Query** for a fast, fluid experience
+- Group chat support with dynamic participant handling
+- Message timestamps and delivery status
+- React to messages with emojis
+- Star important messages for quick reference
+
+### 📎 Media Sharing
+
+- Share images, documents, and other files
+- Instant media preview functionality pre-upload
+
+### 💡 UI/UX
+
+- Fully responsive, **mobile-first** layout
+- **Dark and light mode** support
+- Clean, accessible interface using **Tailwind CSS** and **Shadcn UI**
 
 ## Tech Stack 🛠️
 
@@ -174,7 +204,7 @@ KwikChat is ready to deploy on [Vercel](https://vercel.com). Just connect your G
 
 ## Contribution 🤝
 
-KwikChat is open source and contributions are welcome. Check out our [Code of Conduct](https://github.com/nilotpaldhar/test-app/blob/main/.github/community/CODE_OF_CONDUCT.md) and [Issues](https://github.com/nilotpaldhar/kwikchat/issues) page to get started.
+KwikChat is open source and contributions are welcome. Check out our [Code of Conduct](https://github.com/nilotpaldhar/kwikchat/blob/main/CODE_OF_CONDUCT.md) and [Issues](https://github.com/nilotpaldhar/kwikchat/issues) page to get started.
 
 ## Support 💗
 
@@ -186,7 +216,7 @@ If you found this project helpful:
 
 ## License 📄
 
-This project is licensed under the [MIT License](https://github.com/nilotpaldhar/test-app/blob/main/LICENSE).
+This project is licensed under the [MIT License](https://github.com/nilotpaldhar/kwikchat/blob/main/LICENSE).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
