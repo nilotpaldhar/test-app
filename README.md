@@ -2,7 +2,7 @@
 <br />
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nilotpaldhar/test-app/refs/heads/main/refs/heads/main/.github/assets/images/logo-banner.png" alt="KwikChat" width="400"/>
+  <img src="https://raw.githubusercontent.com/nilotpaldhar/test-app/refs/heads/main/.github/assets/images/logo-banner.png" alt="KwikChat" width="400"/>
 </p>
 
 <h3 align="center">
@@ -35,7 +35,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nilotpaldhar/test-app/refs/heads/main/refs/heads/main/.github/assets/images/app-overview.png" alt="App Screenshot" />
+  <img src="https://raw.githubusercontent.com/nilotpaldhar/test-app/refs/heads/main/.github/assets/images/app-overview.png" alt="App Screenshot" />
 </p>
 
 ## Features ✨
